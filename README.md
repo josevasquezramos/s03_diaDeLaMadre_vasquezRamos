@@ -19,6 +19,8 @@ App **Felíz Día Mamá** es una aplicación Android desarrollada como parte del
 - Animación de corazón: al tocar el ícono de corazón, se despliega un mensaje especial dedicado a mamá.
 - Botón sorpresa: al presionarlo, se activa una animación de **lluvia de corazones** para expresar cariño y alegría.
 
+https://github.com/user-attachments/assets/6f3796dd-4c94-4888-86cb-847c7109567d
+
 ___
 
 **Alumno:** Jose Manuel Vasquez Ramos  
